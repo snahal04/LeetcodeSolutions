@@ -1,4 +1,6 @@
 //problem number 69
+//Sqrt(x)
+// How to find square root of an number without using any library
 class Solution {
 public:
     int mySqrt(int x) {
